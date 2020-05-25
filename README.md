@@ -1,0 +1,2 @@
+# bitcoin
+Mining on top
